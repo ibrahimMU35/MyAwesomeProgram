@@ -18,10 +18,10 @@ class Program
 
         #endregion
         System.Console.Write("input a  number:");
-        int num1 = Convert.ToInt32(Console.ReadLine()); 
+        double num1 = Convert.ToDouble(Console.ReadLine()); 
         System.Console.WriteLine("input second number:"); 
-        int num2 = Convert.ToInt32(Console.ReadLine());
-        int result = num1 + num2;
+        double num2 = Convert.ToDouble(Console.ReadLine());
+        double result = num1 + num2;
         Console.Write("The result is: " + result);
         Console.ReadKey();
 
