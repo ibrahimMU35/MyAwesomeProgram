@@ -1,0 +1,15 @@
+C:\Users\ibomy\OneDrive\Desktop\MyAwesomeProgram\csharpVariables\bin\Debug\net8.0\csharpVariables.exe
+C:\Users\ibomy\OneDrive\Desktop\MyAwesomeProgram\csharpVariables\bin\Debug\net8.0\csharpVariables.deps.json
+C:\Users\ibomy\OneDrive\Desktop\MyAwesomeProgram\csharpVariables\bin\Debug\net8.0\csharpVariables.runtimeconfig.json
+C:\Users\ibomy\OneDrive\Desktop\MyAwesomeProgram\csharpVariables\bin\Debug\net8.0\csharpVariables.dll
+C:\Users\ibomy\OneDrive\Desktop\MyAwesomeProgram\csharpVariables\bin\Debug\net8.0\csharpVariables.pdb
+C:\Users\ibomy\OneDrive\Desktop\MyAwesomeProgram\csharpVariables\obj\Debug\net8.0\csharpVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibomy\OneDrive\Desktop\MyAwesomeProgram\csharpVariables\obj\Debug\net8.0\csharpVariables.AssemblyInfoInputs.cache
+C:\Users\ibomy\OneDrive\Desktop\MyAwesomeProgram\csharpVariables\obj\Debug\net8.0\csharpVariables.AssemblyInfo.cs
+C:\Users\ibomy\OneDrive\Desktop\MyAwesomeProgram\csharpVariables\obj\Debug\net8.0\csharpVariables.csproj.CoreCompileInputs.cache
+C:\Users\ibomy\OneDrive\Desktop\MyAwesomeProgram\csharpVariables\obj\Debug\net8.0\csharpVariables.sourcelink.json
+C:\Users\ibomy\OneDrive\Desktop\MyAwesomeProgram\csharpVariables\obj\Debug\net8.0\csharpVariables.dll
+C:\Users\ibomy\OneDrive\Desktop\MyAwesomeProgram\csharpVariables\obj\Debug\net8.0\refint\csharpVariables.dll
+C:\Users\ibomy\OneDrive\Desktop\MyAwesomeProgram\csharpVariables\obj\Debug\net8.0\csharpVariables.pdb
+C:\Users\ibomy\OneDrive\Desktop\MyAwesomeProgram\csharpVariables\obj\Debug\net8.0\csharpVariables.genruntimeconfig.cache
+C:\Users\ibomy\OneDrive\Desktop\MyAwesomeProgram\csharpVariables\obj\Debug\net8.0\ref\csharpVariables.dll
